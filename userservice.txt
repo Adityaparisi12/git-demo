@@ -1,0 +1,4 @@
+create an avatar for users
+
+login and logout
+
