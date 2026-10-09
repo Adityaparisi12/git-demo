@@ -7,3 +7,5 @@ And My Specialization is Data Science and Big data Analytics..
 I am very Must interested to learn java
 
 Hello Parisi
+
+submit data to the database
